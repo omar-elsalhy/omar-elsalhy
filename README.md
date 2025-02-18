@@ -1,4 +1,7 @@
-🎯 Engineering Student | Passionate About C & Cybersecurity 🔐
+<h1 align="center">Hello, I'm Omar</h1>
+<p align="center">
+  🎯 Engineering Student | Passionate About C & Cybersecurity 🔐
+</p>
 
 Hi there! I'm an engineering student passionate about C programming and Cybersecurity. I enjoy diving into complex problems and exploring security-related challenges with CTFs.
 
@@ -12,4 +15,5 @@ Working with my peers on challenging technical projects, learning new techniques
 
 🔍 Current Projects:
 Check out my repositories to find C, Java and Web projects, a few CTF write-ups, and technical experiments from my team projects at university.
+
 And a lot more to come ...
